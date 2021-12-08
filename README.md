@@ -1,2 +1,2 @@
-# hugo-blog-gitalk
-gitalk content repo
+# hugo blog comment repo
+## powerd by utterances
